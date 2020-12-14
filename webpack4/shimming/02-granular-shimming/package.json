@@ -1,0 +1,21 @@
+{
+  "name": "02-granular-shimming",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "imports-loader": "^1.2.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.2.0"
+  }
+}
